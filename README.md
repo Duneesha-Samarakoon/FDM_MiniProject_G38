@@ -1,5 +1,7 @@
 # FDM_MiniProject_G38
 
+Data Set: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
 Collaborators
 1. IT20216528 – Wanaguru D. R. S
 2. IT20121792 – Kolonne R. U
